@@ -1,0 +1,4 @@
+pi=3.14
+radius = float(input("enter"))
+x=pi*radius*radius
+print(x)
